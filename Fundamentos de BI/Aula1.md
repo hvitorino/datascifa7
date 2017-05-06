@@ -16,6 +16,7 @@
     * Data Mart (DM)
     * Data Mining
     * ETL
+    * ODS - https://litolima.com/2010/04/22/o-operational-data-store-ods-desenhando-o-operational-data-store/
 
 ## Processo de desenvolvimento
 
@@ -24,6 +25,13 @@
     3. Mapeamento das fontes de dados
     4. Construção da solução BI
     5. Disponibilização aos usuários
+
+### Sub processos de desenvolvimento
+
+    1. Modelagem Dimensional
+    2. Extração e Transformação (fontes internas e externas)    
+    3. Construção de DM's e DW's
+    4. Desenvolvimento das aplicações
 
 ## Testes e confiabilidade dos dados
 
