@@ -4,6 +4,10 @@
     - Fernando Siqueira
     - fssiqueira@gmail.com
 
+# Slides
+
+    * Slides em Arquivos/FBI - Unid 1 - Introdução ao BI - 1o dia.pdf
+
 ## Ferramentas 
 
     * Microsoft Power BI - https://powerbi.microsoft.com/pt-br/
